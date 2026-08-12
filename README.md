@@ -172,6 +172,7 @@ This project is open source and available for educational purposes.
 - [Qiskit Textbook](https://qiskit.org/learn/)
 - [IBM Quantum Experience](https://quantum-computing.ibm.com/)
 - [Qiskit YouTube Channel](https://www.youtube.com/c/qiskit)
+- [IBM Certified Quantum Computation using Qiskit v2.X Developer - Associate](https://www.ibm.com/training/certification/ibm-certified-quantum-computation-using-qiskit-v2x-developer-associate-C9008400) (Contains the official Study Guide and Sample Test PDFs)
 
 ## 📧 Contact
 
